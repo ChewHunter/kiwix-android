@@ -211,4 +211,6 @@
   <string name="history_from_current_book">History from current book</string>
   <string name="search_history">Search history</string>
   <string name="selected_items">%1$d selected</string>
+  <string name="bookmarks_from_current_book">Bookmarks from current book</string>
+  <string name="search_bookmarks">Search bookmarks</string>
 </resources>
